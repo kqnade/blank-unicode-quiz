@@ -1,0 +1,83 @@
+[
+  {
+    "question": "[\u0020]",
+    "answer": "U+0020",
+    "description": "Space"
+  },
+  {
+    "question": "[\u00A0]",
+    "answer": "U+00A0",
+    "description": "Non-break Space"
+  },
+  {
+    "question": "[\u2000]",
+    "answer": "U+2000",
+    "description": "En Quad"
+  },
+  {
+    "question": "[\u2001]",
+    "answer": "U+2001",
+    "description": "Em Quad"
+  },
+  {
+    "question": "[\u2002]",
+    "answer": "U+2002",
+    "description": "En Space"
+  },
+  {
+    "question": "[\u2003]",
+    "answer": "U+2003",
+    "description": "Em Space"
+  },
+  {
+    "question": "[\u2004]",
+    "answer": "U+2004",
+    "description": "Three-Per-Em Space"
+  },
+  {
+    "question": "[\u2005]",
+    "answer": "U+2005",
+    "description": "Four-Per-Em Space"
+  },
+  {
+    "question": "[\u2006]",
+    "answer": "U+2006",
+    "description": "Six-Per-Em Space"
+  },
+  {
+    "question": "[\u2007]",
+    "answer": "U+2007",
+    "description": "Figure Space"
+  },
+  {
+    "question": "[\u2008]",
+    "answer": "U+2008",
+    "description": "Punctuation Space"
+  },
+  {
+    "question": "[\u2009]",
+    "answer": "U+2009",
+    "description": "Thin Space"
+  },
+  {
+    "question": "[\u200A]",
+    "answer": "U+200A",
+    "description": "Hair Space"
+  },
+  {
+    "question": "[\u2028]",
+    "answer": "U+2028",
+    "description": "Line Separator"
+  },
+  {
+    "question": "[\u205F]",
+    "answer": "U+205F",
+    "description": "Medium Mathematical Space"
+  },
+  {
+    "question": "[\u3000]",
+    "answer": "U+3000",
+    "description": "Ideographic Space"
+  }
+]
+
